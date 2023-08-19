@@ -1,3 +1,17 @@
+# 初期設定
+'''
+ryo01@sakonryounoMacBook-Pro nextjs % npx create-next-app blog-with-microcms
+Need to install the following packages:
+  create-next-app@13.4.19
+Ok to proceed? (y) y
+✔ Would you like to use TypeScript? … No
+✔ Would you like to use ESLint? … Yes
+✔ Would you like to use Tailwind CSS? … No
+✔ Would you like to use `src/` directory? … No
+✔ Would you like to use App Router? (recommended) … No
+✔ Would you like to customize the default import alias? … No
+'''
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
